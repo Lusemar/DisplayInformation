@@ -10,7 +10,7 @@ package displayinformation; // Here is the package where the program is located.
 public class DisplayInformation { // Here is the our class.
     public static void main(String[] args) { // Here is the main method, it's where the program executes.
         
-        double recWidth = 4.5; // Here is where we declare the variable with it's type, name and value. 
+        double recWidth = 4.5;  // Here is where we declare the variable with it's type, name and value. 
         double recHeight = 9.7;
         double recArea = 0;
         double recPerimeter = 0;
